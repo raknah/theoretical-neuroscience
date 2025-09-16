@@ -1,5 +1,5 @@
 # OS junk files
 *.DS_Store
-
+*.gitignore
 # Other
 .idea
